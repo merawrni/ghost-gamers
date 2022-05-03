@@ -1,0 +1,15 @@
+CACHE MANIFEST
+# Version: 1.1
+carrito.html
+index.html
+productos.html
+about.html
+css/estilos.css
+css/styles.css
+css/estilosCarritos.css
+css/estilosProductos.css
+js/ctrlCarrito.js
+js/ctrlProductos.js
+
+NETWORK:
+*

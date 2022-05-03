@@ -1,0 +1,11 @@
+
+.selimg{
+	 max-width: 190px;
+        max-height: 150px;
+        border-radius: 10px;
+}
+.seleccion{
+    border: thin solid #BEBEBE;
+    margin: 10px;
+    background-color: whitesmoke;
+}
