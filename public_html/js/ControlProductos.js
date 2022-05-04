@@ -41,7 +41,7 @@ var uno = document.getElementById("uno"),
         var cantidad = document.getElementById("c1").value,
             total = cantidad * 850,
             clave = "1";
-    
+            console.log('Test sobre exboxes');
             if(total === 0){
                alert("No puede agregar el producto si aun no especifica" +  
                        "la cantidad que desea"); 
@@ -63,7 +63,7 @@ var uno = document.getElementById("uno"),
                     alert(peticion + "\nPeticion almacenada");
                 }
                 else{
-                    alert("Error al almacenar");
+                    alert("Error al almacenar un nuevo XBOX");
                 }
             }       
     }
