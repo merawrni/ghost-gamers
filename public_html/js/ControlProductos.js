@@ -63,7 +63,7 @@ var uno = document.getElementById("uno"),
                     alert(peticion + "\nPeticion almacenada");
                 }
                 else{
-                    alert("Error al almacenar");
+                    alert("Error al almacenar un nuevo XBOX");
                 }
             }       
     }
